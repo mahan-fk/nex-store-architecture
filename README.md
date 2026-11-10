@@ -9,7 +9,7 @@ The source code is kept private by design to protect proprietary business logic 
 - **Architecture:** NestJS backend, hybrid LangChain + LangGraph orchestration, and Vercel AI SDK for transport.
 - **Scale:** ~167K LOC, 100 registered tools in a governed registry.
 - **Safety & Privacy:** 13 hard-deny rules for financial safety, 44 PII detectors, 15 Generative UI primitives.
-- **Testing Rigor:** 2,507 unit tests, 195 e2e tests, and 169 eval scenarios.
+- **Testing Rigor:** 2,500+ unit tests, 195 e2e tests, and 169 eval scenarios.
 - **Delivery:** 865 commits across 167 active days (solo).
 
 ## The Case Study (PDF)
